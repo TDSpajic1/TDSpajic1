@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TDSpajic1
 - 👀 I’m interested in GitHub Copilot
-- 🌱 I’m currently learning DAX (?1?)
+- 🌱 I’m currently learning DAX
 - 💞️ I’m looking to collaborate on collecting user data from devs using GitHub Copilot
 - 📫 How to reach me DM
 - 😄 Pronouns: pragmatic
